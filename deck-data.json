@@ -1,0 +1,103 @@
+{
+	"deck": {
+		"cover": "./images/deck-cover.jpg",
+		"description": "Based on the Elder Futhark runes created by PaulaWiik.",
+		"title": "Runes"
+	},
+	"deck-card-one": {
+		"image": "./images/rune-fehu.jpg",
+		"text": "F, fehu, wealth"
+	},
+	"deck-card-two": {
+		"image": "./images/rune-uruz.jpg",
+		"text": "U, uruz, strength"
+	},
+  "deck-card-three": {
+		"image": "./images/rune-thurisaz.jpg",
+		"name": "Th, thurisaz, defence"
+	},
+  "deck-card-four": {
+		"image": "./images/rune-ansuz.jpg",
+		"text": "A, ansuz, life"
+	},
+  "deck-card-five": {
+		"image": "./images/rune-raido.jpg",
+		"text": "R, raido, journey"
+	},
+	"deck-card-six": {
+		"image": "./images/rune-kenaz.jpg",
+		"text": "K, kenaz, fire"
+	},
+  "deck-card-seven": {
+		"image": "./images/rune-gebo.jpg",
+		"text": "G, gebo, generosity"
+	},
+	"deck-card-eight": {
+		"image": "./images/rune-wunjo.jpg",
+		"text": "W, wunjo, joy"
+	},
+  "deck-card-nine": {
+		"image": "./images/rune-hagalaz.jpg",
+		"text": "H, hagalaz, wrath"
+	},
+  "deck-card-ten": {
+		"image": "./images/rune-nauthiz.jpg",
+		"text": "N, nauthiz, void"
+	},
+  "deck-card-eleven": {
+		"image": "./images/rune-isa.jpg",
+		"text": "I, isa, inertia"
+	},
+  "deck-card-twelve": {
+		"image": "./images/rune-jera.jpg",
+		"text": "J, jera, inevitability"
+	},
+	"deck-card-thirteen": {
+		"image": "./images/rune-eihwaz.jpg",
+		"text": "ï, eihwaz, transition"
+	},
+	"deck-card-fourteen": {
+		"image": "./images/rune-perthro.jpg",
+		"text": "P, perthro, mystery"
+	},
+	"deck-card-fifteen": {
+		"image": "./images/rune-algiz.jpg",
+		"text": "Z, algiz, protection"
+	},
+	"deck-card-sixteen": {
+		"image": "./images/rune-sowilo.jpg",
+		"text": "S, sowilo, energy"
+	},
+	"deck-card-seventeen": {
+		"image": "./images/rune-tiwaz.jpg",
+		"text": "T, tiwaz, duty"
+	},
+	"deck-card-eighteen": {
+		"image": "./images/rune-berkana.jpg",
+		"text": "B, berkana, renewal"
+	},
+	"deck-card-nineteen": {
+		"image": "./images/rune-ehwaz.jpg",
+		"text": "E, ehwaz, motion"
+	},
+	"deck-card-twenty": {
+		"image": "./images/rune-mannaz.jpg",
+		"text": "M, mannaz, society"
+	},
+  "deck-card-twenty-one": {
+		"image": "./images/rune-laguz.jpg",
+		"name": "L, laguz, mind"
+	},
+	"deck-card-twenty-two": {
+		"image": "./images/rune-ingwaz.jpg",
+		"text": "Ng, ingwaz, beauty"
+	},
+  "deck-card-twenty-three": {
+		"image": "./images/rune-othala.jpg",
+		"text": "O, othala, legacy"
+	},
+  "deck-card-twenty-three": {
+		"image": "./images/rune-dagaz.jpg",
+		"text": "D, dagaz, fulfillment"
+	}
+}
