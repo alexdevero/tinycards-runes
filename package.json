@@ -1,0 +1,42 @@
+{
+  "name": "tinycards-runes",
+  "version": "0.0.1",
+  "description": "Repository for Runes card deck on TinyCards.",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdevero/tinycards-runes.git"
+  },
+  "homepage": "https://github.com/alexdevero/tinycards-runes#readme",
+  "bugs": {
+    "url": "https://github.com/alexdevero/tinycards-runes/issues"
+  },
+  "author": {
+    "name": "Alex Devero",
+    "email": "deveroalex@gmail.com",
+    "url": "https://alexdevero.com/"
+  },
+  "keywords": [
+    "alphabet",
+    "card",
+    "cards",
+    "elder",
+    "elder futhark",
+    "flash cards",
+    "futhark",
+    "game",
+    "learning",
+    "open",
+    "open-source",
+    "runes",
+    "runes",
+    "tinycards"
+  ],
+  "scripts": {
+    "test": "jsonlint deck-data.json --quiet"
+  },
+  "devDependencies": {
+    "jsonlint": "^1.6.2"
+  }
+}
