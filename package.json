@@ -37,6 +37,6 @@
     "test": "jsonlint deck-data.json --quiet"
   },
   "devDependencies": {
-    "jsonlint": "^1.6.2"
+    "jsonlint": "^1.6.3"
   }
 }
